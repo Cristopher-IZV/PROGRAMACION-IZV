@@ -1,0 +1,42 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'17'
+-sourcepath
+'C:/Users/Usuario/Documents/NetBeansProjects/TestBill/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2023. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/Usuario/Documents/NetBeansProjects/TestBill/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'TestBill 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'TestBill 1.0-SNAPSHOT API'
+com.dann.testbill
+C:\Users\Usuario\Documents\NetBeansProjects\TestBill\src\main\java = 1701688062306
+C:\Users\Usuario\Documents\NetBeansProjects\TestBill\target\site\apidocs\allclasses-index.html = 1701720649442
+C:\Users\Usuario\Documents\NetBeansProjects\TestBill\target\site\apidocs\allpackages-index.html = 1701720649445
+C:\Users\Usuario\Documents\NetBeansProjects\TestBill\target\site\apidocs\element-list = 1701720649387
+C:\Users\Usuario\Documents\NetBeansProjects\TestBill\target\site\apidocs\help-doc.html = 1701720649474
+C:\Users\Usuario\Documents\NetBeansProjects\TestBill\target\site\apidocs\index-all.html = 1701720649466
+C:\Users\Usuario\Documents\NetBeansProjects\TestBill\target\site\apidocs\index.html = 1701720649469
+C:\Users\Usuario\Documents\NetBeansProjects\TestBill\target\site\apidocs\jquery-ui.overrides.css = 1701720649494
+C:\Users\Usuario\Documents\NetBeansProjects\TestBill\target\site\apidocs\member-search-index.js = 1701720649452
+C:\Users\Usuario\Documents\NetBeansProjects\TestBill\target\site\apidocs\module-search-index.js = 1701720649447
+C:\Users\Usuario\Documents\NetBeansProjects\TestBill\target\site\apidocs\overview-tree.html = 1701720649426
+C:\Users\Usuario\Documents\NetBeansProjects\TestBill\target\site\apidocs\package-search-index.js = 1701720649449
+C:\Users\Usuario\Documents\NetBeansProjects\TestBill\target\site\apidocs\script.js = 1701720649478
+C:\Users\Usuario\Documents\NetBeansProjects\TestBill\target\site\apidocs\search.js = 1701720649481
+C:\Users\Usuario\Documents\NetBeansProjects\TestBill\target\site\apidocs\stylesheet.css = 1701720649476
+C:\Users\Usuario\Documents\NetBeansProjects\TestBill\target\site\apidocs\tag-search-index.js = 1701720649453
+C:\Users\Usuario\Documents\NetBeansProjects\TestBill\target\site\apidocs\type-search-index.js = 1701720649451
